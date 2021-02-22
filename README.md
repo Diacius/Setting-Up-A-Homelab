@@ -6,5 +6,5 @@ It will help if you read these in order, but if you need help with a specific to
 
 ---
 ## Contents
-1. [Prequesites]({% link prequesites.md %})
+[Pre]({% link prerequisites.md %})
 2. 

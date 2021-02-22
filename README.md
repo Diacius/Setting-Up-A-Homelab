@@ -1,3 +1,8 @@
+{{ site.data.samplelist.docs_list_title }}
+   {% for item in site.data.samplelist.docs %}
+      {{ item.url }}">{{ item.title }}
+   {% endfor %}
+
 # Homelab guide
 ---
 
@@ -5,6 +10,10 @@ A homelab is great! So I'm writing a guide to help you make one
 It will help if you read these in order, but if you need help with a specific topic, just go straight there.
 
 ---
+
 ## Contents
-1. [Pre]({% link prerequisites.md %})
-2. 
+1. Prerequesits
+
+---
+
+## Prer

@@ -1,2 +1,8 @@
-# How To Set Up A Homelab
-## Want to setup a homelab but don't know where to start? I've got you.
+# Homelab guide
+---
+A homelab is great! So I'm writing a guide to help you make one
+It will help if you read these in order, but if you need help with a specific topic, just go straight there.
+---
+## Contents
+1. Prequesites
+2. 

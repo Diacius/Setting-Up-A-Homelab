@@ -6,5 +6,5 @@ It will help if you read these in order, but if you need help with a specific to
 
 ---
 ## Contents
-1. [Pre]({% link Setting-Up-A-Homelab/prerequisites.md %})
+1. [Pre]({% link prerequisites.md %})
 2. 

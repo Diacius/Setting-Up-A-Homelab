@@ -12,7 +12,7 @@ It will help if you read these in order, but if you need help with a specific to
 
 1. [Prerequisites](#Prerequisites)
 2. [Applications](#Applications)
-3. [First Decisions](#First Descisions)
+3. [First Decisions](#First_Descisions)
 
 ---
 

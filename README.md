@@ -1,9 +1,5 @@
-{{ site.data.samplelist.docs_list_title }}
-   {% for item in site.data.samplelist.docs %}
-      {{ item.url }}">{{ item.title }}
-   {% endfor %}
-
 # Homelab guide
+
 ---
 
 A homelab is great! So I'm writing a guide to help you make one
@@ -29,4 +25,4 @@ You can do many things with a homelab:
 - Run a game server
 - Run virtual machines
 - Host your files and run a media centre.
-[& Much More!](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [& Much More!](https://github.com/awesome-selfhosted/awesome-selfhosted)

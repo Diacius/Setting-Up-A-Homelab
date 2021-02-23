@@ -12,6 +12,7 @@ It will help if you read these in order, but if you need help with a specific to
 1. Prerequisites
 2. Applications
 3. First Decisions
+
 ---
 
 ## Prerequisites
@@ -31,4 +32,6 @@ You can do many things with a homelab:
 ---
 
 ## First Decisions
-One of the first things you need to do, is decide how to run your homelab
+One of the first things you need to do, is decide how to run your homelab.
+You have two main options, you can either
+- 

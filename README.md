@@ -12,7 +12,7 @@ It will help if you read these in order, but if you need help with a specific to
 
 1. [Prerequisites](#Prerequisites)
 2. [Applications](#Applications)
-3. [First Decisions](#First_Descisions)
+3. [Options](#Options)
 
 ---
 
@@ -36,9 +36,17 @@ You can do many things with a homelab:
 
 ---
 
-## First Decisions
+## Options
 
 One of the first things you need to do, is decide how to run your homelab.
 You have two main options, you can either
+1. [Option one][1] Run all applications in [VMs][wiki_vm] and or use [Containers][wiki_containers] [Go Here to start][1]
 
----
+2. [Option two][2] Run all applications on the host OS at the same time (This sometimes wont work due to applications needing completly different setups)
+[Go here to start][2]
+
+
+[1]: https://diacius.github.io/Setting-Up-A-Homelab/option1.html
+[2]: https://diacius.github.io/Setting-Up-A-Homelab/option2.html
+[wiki_vm]: https://en.wikipedia.org/wiki/Virtual_machine
+[wiki_containers]: https://en.wikipedia.org/wiki/OS-level_virtualization

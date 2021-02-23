@@ -1,11 +1,12 @@
 # Homelab guide
 
 (I appologise that this is one page, if you know how to make html sections in markdown or can get jekyll links to work properly, please reply to the issue and pull request)
+Please do contribute to this guide
 
 A homelab is great! So I'm writing a guide to help you make one.
 
 It will help if you read these in order, but if you need help with a specific topic, just go straight there.
-
+### Already setup a computer but want to learn how to install apps?
 ---
 
 ## Contents
@@ -15,7 +16,6 @@ It will help if you read these in order, but if you need help with a specific to
 3. [Options](#Options)
 
 ---
-
 ## Prerequisites
 
 What you will need
@@ -50,3 +50,4 @@ You have two main options, you can either
 [2]: https://diacius.github.io/Setting-Up-A-Homelab/option2
 [wiki_vm]: https://en.wikipedia.org/wiki/Virtual_machine
 [wiki_containers]: https://en.wikipedia.org/wiki/OS-level_virtualization
+

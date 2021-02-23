@@ -40,13 +40,13 @@ You can do many things with a homelab:
 
 One of the first things you need to do, is decide how to run your homelab.
 You have two main options, you can either
-1. [Option one][1] Run all applications in [VMs][wiki_vm] and or use [Containers][wiki_containers] [Go Here to start][1]
+1. [Option one][1] Run all applications in [VMs][wiki_vm] using a hypervisor and or use [Containers][wiki_containers] which can run on top of lnux. [Go Here to start][1]
 
 2. [Option two][2] Run all applications on the host OS at the same time (This sometimes wont work due to applications needing completly different setups)
 [Go here to start][2]
 
 
-[1]: https://diacius.github.io/Setting-Up-A-Homelab/option1.html
-[2]: https://diacius.github.io/Setting-Up-A-Homelab/option2.html
+[1]: https://diacius.github.io/Setting-Up-A-Homelab/option1
+[2]: https://diacius.github.io/Setting-Up-A-Homelab/option2
 [wiki_vm]: https://en.wikipedia.org/wiki/Virtual_machine
 [wiki_containers]: https://en.wikipedia.org/wiki/OS-level_virtualization
